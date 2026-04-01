@@ -1,0 +1,701 @@
+[
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "operator",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "operator",
+        "description": "operator",
+        "detail": "operator",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "TypedDict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "StateGraph",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "START",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "END",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "Send",
+        "importPath": "langgraph.types",
+        "description": "langgraph.types",
+        "isExtraImport": true,
+        "detail": "langgraph.types",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGroq",
+        "importPath": "langchain_groq",
+        "description": "langchain_groq",
+        "isExtraImport": true,
+        "detail": "langchain_groq",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "SystemMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "zipfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "zipfile",
+        "description": "zipfile",
+        "detail": "zipfile",
+        "documentation": {}
+    },
+    {
+        "label": "BytesIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "streamlit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "streamlit",
+        "description": "streamlit",
+        "detail": "streamlit",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "BlogRequest",
+        "kind": 6,
+        "importPath": "backend",
+        "description": "backend",
+        "peekOfCode": "class BlogRequest(BaseModel):\n    topic: str\n# ============================================================\n# AGENT SCHEMAS\n# ============================================================\nclass Task(BaseModel):\n    id: int\n    title: str\n    goal: str = Field(..., description=\"One sentence describing what the reader should do/understand.\")\n    bullets: List[str] = Field(..., min_length=3, max_length=6)",
+        "detail": "backend",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "kind": 6,
+        "importPath": "backend",
+        "description": "backend",
+        "peekOfCode": "class Task(BaseModel):\n    id: int\n    title: str\n    goal: str = Field(..., description=\"One sentence describing what the reader should do/understand.\")\n    bullets: List[str] = Field(..., min_length=3, max_length=6)\n    target_words: int = Field(..., description=\"Target words (120–550).\")\n    tags: List[str] = Field(default_factory=list)\n    requires_research: bool = False\n    requires_citations: bool = False\n    requires_code: bool = False",
+        "detail": "backend",
+        "documentation": {}
+    },
+    {
+        "label": "Plan",
+        "kind": 6,
+        "importPath": "backend",
+        "description": "backend",
+        "peekOfCode": "class Plan(BaseModel):\n    blog_title: str\n    audience: str\n    tone: str\n    blog_kind: Literal[\"explainer\", \"tutorial\", \"news_roundup\", \"comparison\", \"system_design\"] = \"explainer\"\n    constraints: List[str] = Field(default_factory=list)\n    tasks: List[Task]\nclass EvidenceItem(BaseModel):\n    title: str\n    url: str",
+        "detail": "backend",
+        "documentation": {}
+    },
+    {
+        "label": "EvidenceItem",
+        "kind": 6,
+        "importPath": "backend",
+        "description": "backend",
+        "peekOfCode": "class EvidenceItem(BaseModel):\n    title: str\n    url: str\n    published_at: Optional[str] = None\n    snippet: Optional[str] = None\n    source: Optional[str] = None\nclass RouterDecision(BaseModel):\n    needs_research: bool\n    mode: Literal[\"closed_book\", \"hybrid\", \"open_book\"]\n    reason: str",
+        "detail": "backend",
+        "documentation": {}
+    },
+    {
+        "label": "RouterDecision",
+        "kind": 6,
+        "importPath": "backend",
+        "description": "backend",
+        "peekOfCode": "class RouterDecision(BaseModel):\n    needs_research: bool\n    mode: Literal[\"closed_book\", \"hybrid\", \"open_book\"]\n    reason: str\n    queries: List[str] = Field(default_factory=list)\n    max_results_per_query: int = Field(5)\nclass EvidencePack(BaseModel):\n    evidence: List[EvidenceItem] = Field(default_factory=list)\nclass ImageSpec(BaseModel):\n    placeholder: str = Field(..., description=\"e.g. [[IMAGE_1]]\")",
+        "detail": "backend",
+        "documentation": {}
+    },
+    {
+        "label": "EvidencePack",
+        "kind": 6,
+        "importPath": "backend",
+        "description": "backend",
+        "peekOfCode": "class EvidencePack(BaseModel):\n    evidence: List[EvidenceItem] = Field(default_factory=list)\nclass ImageSpec(BaseModel):\n    placeholder: str = Field(..., description=\"e.g. [[IMAGE_1]]\")\n    filename: str = Field(..., description=\"Save under images/, e.g. qkv_flow.png\")\n    alt: str\n    caption: str\n    prompt: str = Field(..., description=\"Prompt to send to the image model.\")\n    size: Literal[\"1024x1024\", \"1024x1536\", \"1536x1024\"] = \"1024x1024\"\n    quality: Literal[\"low\", \"medium\", \"high\"] = \"medium\"",
+        "detail": "backend",
+        "documentation": {}
+    },
+    {
+        "label": "ImageSpec",
+        "kind": 6,
+        "importPath": "backend",
+        "description": "backend",
+        "peekOfCode": "class ImageSpec(BaseModel):\n    placeholder: str = Field(..., description=\"e.g. [[IMAGE_1]]\")\n    filename: str = Field(..., description=\"Save under images/, e.g. qkv_flow.png\")\n    alt: str\n    caption: str\n    prompt: str = Field(..., description=\"Prompt to send to the image model.\")\n    size: Literal[\"1024x1024\", \"1024x1536\", \"1536x1024\"] = \"1024x1024\"\n    quality: Literal[\"low\", \"medium\", \"high\"] = \"medium\"\nclass GlobalImagePlan(BaseModel):\n    md_with_placeholders: str",
+        "detail": "backend",
+        "documentation": {}
+    },
+    {
+        "label": "GlobalImagePlan",
+        "kind": 6,
+        "importPath": "backend",
+        "description": "backend",
+        "peekOfCode": "class GlobalImagePlan(BaseModel):\n    md_with_placeholders: str\n    images: List[ImageSpec] = Field(default_factory=list)\nclass State(TypedDict):\n    topic: str\n    mode: str\n    needs_research: bool\n    queries: List[str]\n    evidence: List[EvidenceItem]\n    plan: Optional[Plan]",
+        "detail": "backend",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "kind": 6,
+        "importPath": "backend",
+        "description": "backend",
+        "peekOfCode": "class State(TypedDict):\n    topic: str\n    mode: str\n    needs_research: bool\n    queries: List[str]\n    evidence: List[EvidenceItem]\n    plan: Optional[Plan]\n    as_of: str\n    recency_days: int\n    sections: Annotated[List[tuple[int, str]], operator.add]",
+        "detail": "backend",
+        "documentation": {}
+    },
+    {
+        "label": "router_node",
+        "kind": 2,
+        "importPath": "backend",
+        "description": "backend",
+        "peekOfCode": "def router_node(state: State) -> dict:\n    decider = llm.with_structured_output(RouterDecision)\n    decision = decider.invoke([\n        SystemMessage(content=ROUTER_SYSTEM),\n        HumanMessage(content=f\"Topic: {state['topic']}\\nAs-of date: {state['as_of']}\"),\n    ])\n    if decision.mode == \"open_book\":\n        recency_days = 7\n    elif decision.mode == \"hybrid\":\n        recency_days = 45",
+        "detail": "backend",
+        "documentation": {}
+    },
+    {
+        "label": "route_next",
+        "kind": 2,
+        "importPath": "backend",
+        "description": "backend",
+        "peekOfCode": "def route_next(state: State) -> str:\n    return \"research\" if state[\"needs_research\"] else \"orchestrator\"\ndef _tavily_search(query: str, max_results: int = 5) -> List[dict]:\n    if not os.getenv(\"TAVILY_API_KEY\"):\n        return []\n    try:\n        from langchain_community.tools.tavily_search import TavilySearchResults\n        tool = TavilySearchResults(max_results=max_results)\n        results = tool.invoke({\"query\": query})\n        out: List[dict] = []",
+        "detail": "backend",
+        "documentation": {}
+    },
+    {
+        "label": "research_node",
+        "kind": 2,
+        "importPath": "backend",
+        "description": "backend",
+        "peekOfCode": "def research_node(state: State) -> dict:\n    queries = (state.get(\"queries\") or [])[:10]\n    raw: List[dict] = []\n    for q in queries:\n        raw.extend(_tavily_search(q, max_results=6))\n    if not raw:\n        return {\"evidence\": []}\n    extractor = llm.with_structured_output(EvidencePack)\n    pack = extractor.invoke([\n        SystemMessage(content=RESEARCH_SYSTEM),",
+        "detail": "backend",
+        "documentation": {}
+    },
+    {
+        "label": "orchestrator_node",
+        "kind": 2,
+        "importPath": "backend",
+        "description": "backend",
+        "peekOfCode": "def orchestrator_node(state: State) -> dict:\n    planner = llm.with_structured_output(Plan)\n    mode = state.get(\"mode\", \"closed_book\")\n    evidence = state.get(\"evidence\", [])\n    forced_kind = \"news_roundup\" if mode == \"open_book\" else None\n    plan = planner.invoke([\n        SystemMessage(content=ORCH_SYSTEM),\n        HumanMessage(content=(\n            f\"Topic: {state['topic']}\\nMode: {mode}\\n\"\n            f\"As-of: {state['as_of']} (recency_days={state['recency_days']})\\n\"",
+        "detail": "backend",
+        "documentation": {}
+    },
+    {
+        "label": "fanout",
+        "kind": 2,
+        "importPath": "backend",
+        "description": "backend",
+        "peekOfCode": "def fanout(state: State):\n    assert state[\"plan\"] is not None\n    return [\n        Send(\"worker\", {\n            \"task\": task.model_dump(),\n            \"topic\": state[\"topic\"],\n            \"mode\": state[\"mode\"],\n            \"as_of\": state[\"as_of\"],\n            \"recency_days\": state[\"recency_days\"],\n            \"plan\": state[\"plan\"].model_dump(),",
+        "detail": "backend",
+        "documentation": {}
+    },
+    {
+        "label": "worker_node",
+        "kind": 2,
+        "importPath": "backend",
+        "description": "backend",
+        "peekOfCode": "def worker_node(payload: dict) -> dict:\n    task = Task(**payload[\"task\"])\n    plan = Plan(**payload[\"plan\"])\n    evidence = [EvidenceItem(**e) for e in payload.get(\"evidence\", [])]\n    bullets_text = \"\\n- \" + \"\\n- \".join(task.bullets)\n    evidence_text = \"\\n\".join(\n        f\"- {e.title} | {e.url} | {e.published_at or 'date:unknown'}\"\n        for e in evidence[:4]\n    )\n    section_md = llm.invoke([",
+        "detail": "backend",
+        "documentation": {}
+    },
+    {
+        "label": "merge_content",
+        "kind": 2,
+        "importPath": "backend",
+        "description": "backend",
+        "peekOfCode": "def merge_content(state: State) -> dict:\n    plan = state[\"plan\"]\n    ordered_sections = [md for _, md in sorted(state[\"sections\"], key=lambda x: x[0])]\n    body = \"\\n\\n\".join(ordered_sections).strip()\n    return {\"merged_md\": f\"# {plan.blog_title}\\n\\n{body}\\n\"}\nDECIDE_IMAGES_SYSTEM = \"\"\"Act as an expert technical editor.\nDecide if images/diagrams are needed for THIS blog.\nRules:\n- Max 3 images total.\n- Insert placeholders exactly: [[IMAGE_1]], [[IMAGE_2]], [[IMAGE_3]].",
+        "detail": "backend",
+        "documentation": {}
+    },
+    {
+        "label": "decide_images",
+        "kind": 2,
+        "importPath": "backend",
+        "description": "backend",
+        "peekOfCode": "def decide_images(state: State) -> dict:\n    planner = llm.with_structured_output(GlobalImagePlan)\n    image_plan = planner.invoke([\n        SystemMessage(content=DECIDE_IMAGES_SYSTEM),\n        HumanMessage(content=f\"Topic: {state['topic']}\\n\\n{state['merged_md']}\"),\n    ])\n    return {\n        \"md_with_placeholders\": image_plan.md_with_placeholders,\n        \"image_specs\": [img.model_dump() for img in image_plan.images],\n    }",
+        "detail": "backend",
+        "documentation": {}
+    },
+    {
+        "label": "generate_and_place_images",
+        "kind": 2,
+        "importPath": "backend",
+        "description": "backend",
+        "peekOfCode": "def generate_and_place_images(state: State) -> dict:\n    plan = state[\"plan\"]\n    md = state.get(\"md_with_placeholders\") or state[\"merged_md\"]\n    image_specs = state.get(\"image_specs\", []) or []\n    # ✅ OUR SMART HACK: Strictly slice the list to max 3 images only!\n    image_specs = image_specs[:3]\n    if not image_specs:\n        return {\"final\": md}\n    images_dir = Path(\"images\")\n    images_dir.mkdir(exist_ok=True)",
+        "detail": "backend",
+        "documentation": {}
+    },
+    {
+        "label": "generate_blog_endpoint",
+        "kind": 2,
+        "importPath": "backend",
+        "description": "backend",
+        "peekOfCode": "def generate_blog_endpoint(req: BlogRequest):\n    try:\n        initial_state = {\n            \"topic\": req.topic,\n            \"as_of\": date.today().isoformat(),\n            \"sections\": [] \n        }\n        # Invoke the LangGraph agent\n        result = agent_app.invoke(initial_state)\n        return {",
+        "detail": "backend",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "backend",
+        "description": "backend",
+        "peekOfCode": "llm = ChatGroq(model=\"llama-3.3-70b-versatile\")\n#llm = ChatGoogleGenerativeAI(model=\"gemini-2.5-flash\")\n# ============================================================\n# NODES\n# ============================================================\nROUTER_SYSTEM = \"\"\"Act as a routing module for a technical blog planner.\nDecide whether web research is needed BEFORE planning.\nModes:\n- closed_book (needs_research=false): evergreen concepts.\n- hybrid (needs_research=true): evergreen + needs up-to-date examples/tools/models.",
+        "detail": "backend",
+        "documentation": {}
+    },
+    {
+        "label": "#llm",
+        "kind": 5,
+        "importPath": "backend",
+        "description": "backend",
+        "peekOfCode": "#llm = ChatGoogleGenerativeAI(model=\"gemini-2.5-flash\")\n# ============================================================\n# NODES\n# ============================================================\nROUTER_SYSTEM = \"\"\"Act as a routing module for a technical blog planner.\nDecide whether web research is needed BEFORE planning.\nModes:\n- closed_book (needs_research=false): evergreen concepts.\n- hybrid (needs_research=true): evergreen + needs up-to-date examples/tools/models.\n- open_book (needs_research=true): volatile weekly/news/\"latest\"/pricing/policy.",
+        "detail": "backend",
+        "documentation": {}
+    },
+    {
+        "label": "ROUTER_SYSTEM",
+        "kind": 5,
+        "importPath": "backend",
+        "description": "backend",
+        "peekOfCode": "ROUTER_SYSTEM = \"\"\"Act as a routing module for a technical blog planner.\nDecide whether web research is needed BEFORE planning.\nModes:\n- closed_book (needs_research=false): evergreen concepts.\n- hybrid (needs_research=true): evergreen + needs up-to-date examples/tools/models.\n- open_book (needs_research=true): volatile weekly/news/\"latest\"/pricing/policy.\nIf needs_research=true:\n- Output 3–10 high-signal, scoped queries.\n- For open_book weekly roundup, include queries reflecting last 7 days.\n\"\"\"",
+        "detail": "backend",
+        "documentation": {}
+    },
+    {
+        "label": "RESEARCH_SYSTEM",
+        "kind": 5,
+        "importPath": "backend",
+        "description": "backend",
+        "peekOfCode": "RESEARCH_SYSTEM = \"\"\"Act as a research synthesizer.\nGiven raw web search results, produce EvidenceItem objects.\nRules:\n- Only include items with a non-empty url.\n- Prefer relevant + authoritative sources.\n- Normalize published_at to ISO YYYY-MM-DD if reliably inferable; else null (do NOT guess).\n- Keep snippets short.\n- Deduplicate by URL.\n\"\"\"\ndef research_node(state: State) -> dict:",
+        "detail": "backend",
+        "documentation": {}
+    },
+    {
+        "label": "ORCH_SYSTEM",
+        "kind": 5,
+        "importPath": "backend",
+        "description": "backend",
+        "peekOfCode": "ORCH_SYSTEM = \"\"\"Act as a senior technical writer and developer advocate.\nProduce a highly actionable outline for a technical blog post.\nRequirements:\n- 5–9 tasks, each with goal + 3–6 bullets + target_words.\n- Tags are flexible; do not force a fixed taxonomy.\nGrounding:\n- closed_book: evergreen, no evidence dependence.\n- hybrid: use evidence for up-to-date examples; mark those tasks requires_research=True and requires_citations=True.\n- open_book: weekly/news roundup:\n  - Set blog_kind=\"news_roundup\"",
+        "detail": "backend",
+        "documentation": {}
+    },
+    {
+        "label": "WORKER_SYSTEM",
+        "kind": 5,
+        "importPath": "backend",
+        "description": "backend",
+        "peekOfCode": "WORKER_SYSTEM = \"\"\"Act as a senior technical writer and developer advocate.\nWrite ONE section of a technical blog post in Markdown.\nConstraints:\n- Cover ALL bullets in order.\n- Target words ±15%.\n- Output only section markdown starting with \"## <Section Title>\".\nScope guard:\n- If blog_kind==\"news_roundup\", do NOT drift into tutorials. Focus on events + implications.\nGrounding:\n- If mode==\"open_book\": do not introduce any specific claim unless supported by provided Evidence URLs.",
+        "detail": "backend",
+        "documentation": {}
+    },
+    {
+        "label": "DECIDE_IMAGES_SYSTEM",
+        "kind": 5,
+        "importPath": "backend",
+        "description": "backend",
+        "peekOfCode": "DECIDE_IMAGES_SYSTEM = \"\"\"Act as an expert technical editor.\nDecide if images/diagrams are needed for THIS blog.\nRules:\n- Max 3 images total.\n- Insert placeholders exactly: [[IMAGE_1]], [[IMAGE_2]], [[IMAGE_3]].\nReturn strictly GlobalImagePlan.\n\"\"\"\ndef decide_images(state: State) -> dict:\n    planner = llm.with_structured_output(GlobalImagePlan)\n    image_plan = planner.invoke([",
+        "detail": "backend",
+        "documentation": {}
+    },
+    {
+        "label": "reducer_graph",
+        "kind": 5,
+        "importPath": "backend",
+        "description": "backend",
+        "peekOfCode": "reducer_graph = StateGraph(State)\nreducer_graph.add_node(\"merge_content\", merge_content)\nreducer_graph.add_node(\"decide_images\", decide_images)\nreducer_graph.add_node(\"generate_and_place_images\", generate_and_place_images)\nreducer_graph.add_edge(START, \"merge_content\")\nreducer_graph.add_edge(\"merge_content\", \"decide_images\")\nreducer_graph.add_edge(\"decide_images\", \"generate_and_place_images\")\nreducer_graph.add_edge(\"generate_and_place_images\", END)\nreducer_subgraph = reducer_graph.compile()\ng = StateGraph(State)",
+        "detail": "backend",
+        "documentation": {}
+    },
+    {
+        "label": "reducer_subgraph",
+        "kind": 5,
+        "importPath": "backend",
+        "description": "backend",
+        "peekOfCode": "reducer_subgraph = reducer_graph.compile()\ng = StateGraph(State)\ng.add_node(\"router\", router_node)\ng.add_node(\"research\", research_node)\ng.add_node(\"orchestrator\", orchestrator_node)\ng.add_node(\"worker\", worker_node)\ng.add_node(\"reducer\", reducer_subgraph)\ng.add_edge(START, \"router\")\ng.add_conditional_edges(\"router\", route_next, {\"research\": \"research\", \"orchestrator\": \"orchestrator\"})\ng.add_edge(\"research\", \"orchestrator\")",
+        "detail": "backend",
+        "documentation": {}
+    },
+    {
+        "label": "g",
+        "kind": 5,
+        "importPath": "backend",
+        "description": "backend",
+        "peekOfCode": "g = StateGraph(State)\ng.add_node(\"router\", router_node)\ng.add_node(\"research\", research_node)\ng.add_node(\"orchestrator\", orchestrator_node)\ng.add_node(\"worker\", worker_node)\ng.add_node(\"reducer\", reducer_subgraph)\ng.add_edge(START, \"router\")\ng.add_conditional_edges(\"router\", route_next, {\"research\": \"research\", \"orchestrator\": \"orchestrator\"})\ng.add_edge(\"research\", \"orchestrator\")\ng.add_conditional_edges(\"orchestrator\", fanout, [\"worker\"])",
+        "detail": "backend",
+        "documentation": {}
+    },
+    {
+        "label": "agent_app",
+        "kind": 5,
+        "importPath": "backend",
+        "description": "backend",
+        "peekOfCode": "agent_app = g.compile()\n# ============================================================\n# FASTAPI APPLICATION\n# ============================================================\napi = FastAPI(title=\"AI Blog Writer API\", description=\"End-to-End Blog Generation Agent\")\n@api.post(\"/generate-blog\")\ndef generate_blog_endpoint(req: BlogRequest):\n    try:\n        initial_state = {\n            \"topic\": req.topic,",
+        "detail": "backend",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "kind": 5,
+        "importPath": "backend",
+        "description": "backend",
+        "peekOfCode": "api = FastAPI(title=\"AI Blog Writer API\", description=\"End-to-End Blog Generation Agent\")\n@api.post(\"/generate-blog\")\ndef generate_blog_endpoint(req: BlogRequest):\n    try:\n        initial_state = {\n            \"topic\": req.topic,\n            \"as_of\": date.today().isoformat(),\n            \"sections\": [] \n        }\n        # Invoke the LangGraph agent",
+        "detail": "backend",
+        "documentation": {}
+    },
+    {
+        "label": "safe_slug",
+        "kind": 2,
+        "importPath": "frontend",
+        "description": "frontend",
+        "peekOfCode": "def safe_slug(title: str) -> str:\n    s = title.strip().lower()\n    s = re.sub(r\"[^a-z0-9 _-]+\", \"\", s)\n    s = re.sub(r\"\\s+\", \"_\", s).strip(\"_\")\n    return s or \"blog\"\ndef bundle_zip(md_text: str, md_filename: str, images_dir: Path) -> bytes:\n    buf = BytesIO()\n    with zipfile.ZipFile(buf, \"w\", compression=zipfile.ZIP_DEFLATED) as z:\n        z.writestr(md_filename, md_text.encode(\"utf-8\"))\n        if images_dir.exists() and images_dir.is_dir():",
+        "detail": "frontend",
+        "documentation": {}
+    },
+    {
+        "label": "bundle_zip",
+        "kind": 2,
+        "importPath": "frontend",
+        "description": "frontend",
+        "peekOfCode": "def bundle_zip(md_text: str, md_filename: str, images_dir: Path) -> bytes:\n    buf = BytesIO()\n    with zipfile.ZipFile(buf, \"w\", compression=zipfile.ZIP_DEFLATED) as z:\n        z.writestr(md_filename, md_text.encode(\"utf-8\"))\n        if images_dir.exists() and images_dir.is_dir():\n            for p in images_dir.rglob(\"*\"):\n                if p.is_file():\n                    z.write(p, arcname=str(p))\n    return buf.getvalue()\ndef images_zip(images_dir: Path) -> Optional[bytes]:",
+        "detail": "frontend",
+        "documentation": {}
+    },
+    {
+        "label": "images_zip",
+        "kind": 2,
+        "importPath": "frontend",
+        "description": "frontend",
+        "peekOfCode": "def images_zip(images_dir: Path) -> Optional[bytes]:\n    if not images_dir.exists() or not images_dir.is_dir():\n        return None\n    buf = BytesIO()\n    with zipfile.ZipFile(buf, \"w\", compression=zipfile.ZIP_DEFLATED) as z:\n        for p in images_dir.rglob(\"*\"):\n            if p.is_file():\n                z.write(p, arcname=str(p))\n    return buf.getvalue()\n# -----------------------------",
+        "detail": "frontend",
+        "documentation": {}
+    },
+    {
+        "label": "render_markdown_with_local_images",
+        "kind": 2,
+        "importPath": "frontend",
+        "description": "frontend",
+        "peekOfCode": "def render_markdown_with_local_images(md: str):\n    matches = list(_MD_IMG_RE.finditer(md))\n    if not matches:\n        st.markdown(md, unsafe_allow_html=False)\n        return\n    parts: List[Tuple[str, str]] = []\n    last = 0\n    for m in matches:\n        before = md[last : m.start()]\n        if before:",
+        "detail": "frontend",
+        "documentation": {}
+    },
+    {
+        "label": "list_past_blogs",
+        "kind": 2,
+        "importPath": "frontend",
+        "description": "frontend",
+        "peekOfCode": "def list_past_blogs() -> List[Path]:\n    cwd = Path(\".\")\n    files = [p for p in cwd.glob(\"*.md\") if p.is_file()]\n    files.sort(key=lambda p: p.stat().st_mtime, reverse=True)\n    return files\ndef read_md_file(p: Path) -> str:\n    return p.read_text(encoding=\"utf-8\", errors=\"replace\")\ndef extract_title_from_md(md: str, fallback: str) -> str:\n    for line in md.splitlines():\n        if line.startswith(\"# \"):",
+        "detail": "frontend",
+        "documentation": {}
+    },
+    {
+        "label": "read_md_file",
+        "kind": 2,
+        "importPath": "frontend",
+        "description": "frontend",
+        "peekOfCode": "def read_md_file(p: Path) -> str:\n    return p.read_text(encoding=\"utf-8\", errors=\"replace\")\ndef extract_title_from_md(md: str, fallback: str) -> str:\n    for line in md.splitlines():\n        if line.startswith(\"# \"):\n            t = line[2:].strip()\n            return t or fallback\n    return fallback\n# -----------------------------\n# Streamlit UI",
+        "detail": "frontend",
+        "documentation": {}
+    },
+    {
+        "label": "extract_title_from_md",
+        "kind": 2,
+        "importPath": "frontend",
+        "description": "frontend",
+        "peekOfCode": "def extract_title_from_md(md: str, fallback: str) -> str:\n    for line in md.splitlines():\n        if line.startswith(\"# \"):\n            t = line[2:].strip()\n            return t or fallback\n    return fallback\n# -----------------------------\n# Streamlit UI\n# -----------------------------\nst.set_page_config(page_title=\"LangGraph Blog Writer\", layout=\"wide\")",
+        "detail": "frontend",
+        "documentation": {}
+    },
+    {
+        "label": "FASTAPI_URL",
+        "kind": 5,
+        "importPath": "frontend",
+        "description": "frontend",
+        "peekOfCode": "FASTAPI_URL = \"http://localhost:8000/generate-blog\"\n# -----------------------------\n# Helpers\n# -----------------------------\ndef safe_slug(title: str) -> str:\n    s = title.strip().lower()\n    s = re.sub(r\"[^a-z0-9 _-]+\", \"\", s)\n    s = re.sub(r\"\\s+\", \"_\", s).strip(\"_\")\n    return s or \"blog\"\ndef bundle_zip(md_text: str, md_filename: str, images_dir: Path) -> bytes:",
+        "detail": "frontend",
+        "documentation": {}
+    },
+    {
+        "label": "_MD_IMG_RE",
+        "kind": 5,
+        "importPath": "frontend",
+        "description": "frontend",
+        "peekOfCode": "_MD_IMG_RE = re.compile(r\"!\\[(?P<alt>[^\\]]*)\\]\\((?P<src>[^)]+)\\)\")\n_CAPTION_LINE_RE = re.compile(r\"^\\*(?P<cap>.+)\\*$\")\ndef _resolve_image_path(src: str) -> Path:\n    src = src.strip().lstrip(\"./\")\n    return Path(src).resolve()\ndef render_markdown_with_local_images(md: str):\n    matches = list(_MD_IMG_RE.finditer(md))\n    if not matches:\n        st.markdown(md, unsafe_allow_html=False)\n        return",
+        "detail": "frontend",
+        "documentation": {}
+    },
+    {
+        "label": "_CAPTION_LINE_RE",
+        "kind": 5,
+        "importPath": "frontend",
+        "description": "frontend",
+        "peekOfCode": "_CAPTION_LINE_RE = re.compile(r\"^\\*(?P<cap>.+)\\*$\")\ndef _resolve_image_path(src: str) -> Path:\n    src = src.strip().lstrip(\"./\")\n    return Path(src).resolve()\ndef render_markdown_with_local_images(md: str):\n    matches = list(_MD_IMG_RE.finditer(md))\n    if not matches:\n        st.markdown(md, unsafe_allow_html=False)\n        return\n    parts: List[Tuple[str, str]] = []",
+        "detail": "frontend",
+        "documentation": {}
+    },
+    {
+        "label": "out",
+        "kind": 5,
+        "importPath": "frontend",
+        "description": "frontend",
+        "peekOfCode": "out = st.session_state.get(\"last_out\")\nif out:\n    # --- Preview tab ---\n    with tab_preview:\n        st.subheader(\"Markdown Preview\")\n        final_md = out.get(\"final\") or \"\"\n        if not final_md:\n            st.warning(\"No final markdown found.\")\n        else:\n            render_markdown_with_local_images(final_md)",
+        "detail": "frontend",
+        "documentation": {}
+    }
+]

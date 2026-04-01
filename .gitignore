@@ -1,0 +1,16 @@
+# Ignore API keys and environment variables
+.env
+
+# Ignore virtual environment folder (since our venv is named 'bwa')
+bwa/
+venv/
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore generated images and markdown files so repo stays clean
+images/
+*.md
+*.zip

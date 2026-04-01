@@ -1,0 +1,23 @@
+# Backend / API
+fastapi
+uvicorn
+
+# Frontend
+streamlit
+requests
+pandas
+
+# AI / Agents (LangGraph & LangChain)
+langgraph
+langchain-core
+langchain-groq
+langchain-community
+
+# Tools & APIs
+google-genai
+tavily-python
+google-generativeai
+
+# Utilities
+pydantic
+python-dotenv
